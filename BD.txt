@@ -1,0 +1,1 @@
+create table usuario (id_usuario INT(40), nombre VARCHAR(50), apellido VARCHAR(50), telefono VARCHAR(50), direccion VARCHAR(50) );
